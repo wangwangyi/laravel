@@ -1,0 +1,1 @@
+<img src="images/grey.gif" data-tangram-ori-src="images/left.jpg" /></a> </div>
